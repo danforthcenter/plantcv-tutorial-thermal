@@ -8,4 +8,6 @@ When starting an image-based phenotyping project, it is important to consider th
 
 thermal, temperature, penycress
 
+## Citations
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10552709.svg)](https://doi.org/10.5281/zenodo.10552709)
